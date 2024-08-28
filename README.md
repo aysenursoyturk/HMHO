@@ -1,2 +1,2 @@
 # HMHO
-Heuristic Metropolis-Hastings optimization Algorithm (HMHO)
+Heuristic Metropolis-Hastings Optimization Algorithm (HMHO)
