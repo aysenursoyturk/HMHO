@@ -1,7 +1,7 @@
-1c9y	OTC	
-1ilk	IL-10
-1itp	AAT
-2xij	MUT
-AF-P04062	GCase
-AF-P06280	GLA
-AF-P35511	PAL
+1c9y	OTC  Ornithine carbamoyltransferase 
+1ilk	IL-10  Interleukin-10 
+1itp	AAT  α1-Antitrypsin 
+2xij	MUT  Methylmalonyl-CoA mutase 
+AF-P04062	GCase  Lysosomal acid glucosylceramidase
+AF-P06280	GLA  Alpha-galactosidase A
+AF-P35511	PAL  Phenylalanine ammonia-lyase 
