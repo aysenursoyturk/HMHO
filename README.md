@@ -2,11 +2,11 @@
 Heuristic Metropolis-Hastings Optimization Algorithm (HMHO)
 
 ## Overview
-This project provides a Python-based implementation for optimizing protein sequences using Metropolis optimization and external tools like ProteinMPNN and NetSolP. The code allows for the design and analysis of protein sequences, improving their physical properties such as stability and resolution.
+This project provides a Python-based implementation for optimizing protein sequences using Metropolis optimization and external tools like ProteinMPNN and NetSolP. The code allows for the design and analysis of protein sequences, improving their physical properties such as stability and solubility.
 
 ## Features
 - **ProteinMPNN Integration**: Generate protein sequences with specific fixed positions.
-- **NetSolP Integration**: Calculate resolution of protein sequences using a deep learning model.
+- **NetSolP Integration**: Calculate solubility of protein sequences using a deep learning model.
 - **Metropolis Optimization**: Iteratively refine sequences to improve biophysical properties.
 - **Sequence Analysis**: Evaluate sequence instability and flexibility.
 
@@ -91,8 +91,8 @@ pip install -r requirements.txt
 ### Main Functions
 1. **run_proteinmpnn**:
    - Uses ProteinMPNN to generate sequences with fixed positions.
-2. **calculate_resolution**:
-   - Computes resolution using NetSolP.
+2. **calculate_solubility**:
+   - Computes solubility using NetSolP.
 3. **calculate_instability**:
    - Analyzes instability and flexibility of sequences.
 4. **metropolis_optimization**:
